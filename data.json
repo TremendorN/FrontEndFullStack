@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Cheeseburger",
+        "description": "Juicy beef patty with melted cheese",
+        "price": 5.99,
+        "image": "https://images2.alphacoders.com/135/1353005.png"
+    },
+    {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "description": "Classic pizza topped with tomato sauce and mozzarella cheese",
+        "price": 8.99,
+        "image": "https://www.stefanofaita.com/wp-content/uploads/2022/04/pizzamargherita1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Caesar Salad",
+        "description": "Fresh romaine lettuce with Caesar dressing and croutons",
+        "price": 6.49,
+        "image": "https://www.chelseasmessyapron.com/wp-content/uploads/2020/05/Ceasar-Salad-Pizza-2-500x500.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chicken Tenders",
+        "description": "Crispy breaded chicken tenders served with dipping sauce",
+        "price": 7.99,
+        "image": "https://pizzacucinawp.com/wp-content/uploads/2018/09/chicken-fingers-fries-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Spaghetti Bolognese",
+        "description": "Spaghetti pasta with hearty meat sauce",
+        "price": 9.49,
+        "image": "https://i0.wp.com/bhamnow.com/wp-content/uploads/2021/01/78286913_2665974870092491_8409135486953586688_n.jpg?w=1500&quality=89&ssl=1"
+    },
+    {
+        "id": 6,
+        "name": "Veggie Wrap",
+        "description": "Fresh vegetable wrap with hummus spread",
+        "price": 5.99,
+        "image": "https://cookingforpeanuts.com/wp-content/uploads/2023/09/veggie-wraps-high-protein-featured-500x500.jpg"
+    },
+    {
+        "id": 7,
+        "name": "BBQ Ribs",
+        "description": "Tender BBQ ribs glazed with smoky barbecue sauce",
+        "price": 12.99,
+        "image": "https://www.southernliving.com/thmb/sQ3jAjFAP-SPt_upe-Im4rxMKrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/oven-baked-baby-back-ribs-beauty-332_preview-34579f7f15ed4548ae3bb5b2048aab60.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sushi Platter",
+        "description": "Assorted sushi rolls with soy sauce and wasabi",
+        "price": 14.99,
+        "image": "https://m.media-amazon.com/images/I/71Tq21fHSgL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chocolate Brownie",
+        "description": "Rich chocolate brownie topped with vanilla ice cream",
+        "price": 4.99,
+        "image": "https://makeyourmeals.com/wp-content/uploads/2018/08/featured-brownie-480x360.jpg"
+    }
+]
